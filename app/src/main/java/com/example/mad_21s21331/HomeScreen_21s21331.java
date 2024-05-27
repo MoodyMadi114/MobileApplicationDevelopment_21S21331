@@ -10,7 +10,9 @@ import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
 public class HomeScreen_21s21331 extends AppCompatActivity {
-    Button B1,B2,B3,B4;
+    Button B1,B2,B3,B4,B5;
+
+    dbHelper2 Madi2;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
