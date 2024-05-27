@@ -7,7 +7,6 @@
     android:layout_height="match_parent"
     tools:context=".Splash_Screen_21s21331"
     android:background="#ffb6c1">
-
     <TextView
         android:id="@+id/textView"
         android:layout_width="197dp"
@@ -19,7 +18,6 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"></TextView>
-
     <ImageView
         android:id="@+id/imageView3"
         android:layout_width="308dp"
